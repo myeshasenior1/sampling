@@ -64,7 +64,7 @@ Your 5-10 question survey:
 4. What is the MOST important issue influencing your vote right now? Select one: Cost of living / Healthcare / Housing / Jobs-economy / Climate-energy / Immigration / Crime-safety / Taxes / Indigenous reconciliation / Foreign policy / Other: __
 5. Which TWO issues would you most like a party to prioritize in the next month? Select two: Cost of living / Healthcare / Housing / Jobs-economy / Climate-energy / Immigration / Crime-safety / Taxes / Indigenous reconciliation / Foreign policy / Other: __
 6. What, if anything, would make you less likely to vote for our party? Choose all that apply: Leader concerns / Policy concerns / Ethics/scandals / Not addressing my top issue / etc
-7. What is your likelihood of voting on election day? scale (Definitely will vote / Probably will vote / Might vote / Probably will not / Definitely will not)
+7. What is your likelihood of voting on election day? scale (Definitely will vote / Probably will vote / Might vote / Probably will not / Definitely will not )
 8. write your question here... (optional)
 9. write your question here... (optional)
 10. write your question here... (optional)
